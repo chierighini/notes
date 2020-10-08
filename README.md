@@ -11,4 +11,4 @@ I do not own or have written any of those sources. I am thankful though for havi
  
  # Final Considerations
  
-This last section is dedicated to all the authors, content creators and whoever else is mixed up in the bunch of sources I have collected during my studies. Without your noble quest to make knowledge free for everyone, you would not have made such a significant impact on my studies and carreer, and for that all of you should pe proud of. As for me, I am just thankful. And to anyone who decides to read my notes, may you have as much success as I did.
+This last section is dedicated to all the authors, content creators and whoever else is mixed up in the bunch of sources I have collected during my studies. Without your noble quest to make knowledge free for everyone, you would not have made such a significant impact on my studies and carreer, and for that all of you should pe proud of. As for me, I am just thankful. And to anyone who decides to read my notes, may you have as much success as I did. I'll be updating this repository as I dive deeper into the world of programming, data science and whatever else crosses my path.
