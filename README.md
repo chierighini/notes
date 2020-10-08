@@ -5,6 +5,8 @@ In every notebook I mention the sources from which I studied to make these noteb
 
 I do not own or have written any of those sources. I am thankful though for having found them and for having the time to go through them and make "cheatsheats" of my own. Most of those notebooks are here to have a centralized list of topics and examples for myself, but anyone is free to read through and use them as long as they credit the orignial sources as I did.
 
+Another thing to keep in mind is that english is not my first language, so please forgive any errors that I may have commited, if any of them made the reading confusing or just painful to read, please report the issue so I can fix them. I wrote this in english as both practice and a way of getting through to more potential readers.
+
 # Contents
  * **python_notes** are the notebooks I used to write down the topics I was unfamiliar with in Python. Most topics do not have any particular order and were just mixed together whenever I came across them.
  * **applied_data_science_python** are notes from a course on data science I took from IBM which can be found at: https://cognitiveclass.ai/learn/data-science-with-python.
